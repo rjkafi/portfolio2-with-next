@@ -9,21 +9,21 @@ export default function Services() {
     {
       id: 1,
       title: "Web Development",
-      projects: 35,
+      projects:" 07",
       iconBg: "bg-pink-600",
       icon: "📁",
     },
     {
       id: 2,
       title: "Product Design",
-      projects: 23,
+      projects: "12",
       iconBg: "bg-green-700",
       icon: "🎨",
     },
     {
       id: 3,
-      title: "Branding",
-      projects: 46,
+      title: "Basic support",
+      projects:"Feel free to reach out to me 24/7",
       iconBg: "bg-yellow-600",
       icon: "⚙️",
     },
@@ -51,8 +51,8 @@ export default function Services() {
           ))}
         </div>
         <div className="counter-list flex space-x-5">
-          <Counter from={0} to={104} text="Project completd " />
-          <Counter from={0} to={64} text="Happy Client " />
+          <Counter from={0} to={5} text="Project completd " />
+          <Counter from={0} to={3} text="Happy Client " />
         </div>
       </div>
 

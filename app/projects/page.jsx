@@ -48,7 +48,7 @@ const Projects = () => {
     };
 
     return (
-        <section id='projects' className="py-16 ">
+        <section id="projects" className="py-16 ">
             <div className="container mx-auto px-6 lg:px-20">
                 <h2 className="text-4xl font-bold text-center mb-12 text-white  ">
                     <span className='inline-block border-b-2 border-rose-500'>Projects</span>

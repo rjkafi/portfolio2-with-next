@@ -43,7 +43,7 @@ export default function Contact() {
   };
 
   return (
-    <div className="min-h-screen  text-white flex items-center justify-center p-4">
+    <div id="contact" className="min-h-screen  text-white flex items-center justify-center p-4">
       <div
       className="max-w-6xl w-full items-center grid md:grid-cols-3 gap-10 shadow-xl glass p-8 rounded-xl">
         {/* Form */}
